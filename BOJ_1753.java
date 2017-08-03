@@ -18,7 +18,7 @@ class Edge implements Comparable<Edge>{
     }
 }
  
-public class Main {
+public class BOJ_1753 {
     public static void main(String[] args) throws IOException {
          
         int INF = Integer.MAX_VALUE;
